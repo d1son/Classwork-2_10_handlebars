@@ -1,0 +1,19 @@
+{
+  "name": "2_10_16",
+  "version": "1.0.0",
+  "description": "using handlebars with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d1son/Classwork-2_10_handlebars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d1son/Classwork-2_10_handlebars/issues"
+  },
+  "homepage": "https://github.com/d1son/Classwork-2_10_handlebars#readme"
+}
